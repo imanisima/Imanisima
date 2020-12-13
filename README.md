@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**Imanisima/Imanisima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+### Hi there 👋 My name's Imani.
 
 🔭 I’m currently working on Memo Hacha, a notetaking app for language learners.
 
