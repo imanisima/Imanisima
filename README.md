@@ -1,8 +1,8 @@
 ### Hi there 👾
 
-🔭 I’m currently working on a web app for reviewing Japanese.
+🔭 I’m currently working on a CNN for classifying diseases in chest X-Ray images. 
 
-🌱 I’m currently learning VueJS.
+🌱 I’m currently learning about AI for Medicine.
 
 ⚡ Fun fact: I don't like Sweet Tea or Coconut.
 
