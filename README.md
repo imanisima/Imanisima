@@ -1,6 +1,6 @@
 ### Hi there 👾
 
-🔭 I’m currently working on a CNN for classifying diseases in chest X-Ray images. 
+🔭 I’m currently working on a web application for learning Chinese. 
 
 🌱 I’m currently learning about AI for Medicine.
 
