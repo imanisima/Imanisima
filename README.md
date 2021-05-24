@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://pixabay.com/get/gea99c2562bef997b289168d102d17723e4a5e34409d3ac4d594a61cf13e094ea9f1021a0160f32d77792ad0b3792cb40_1920.jpg" alt="cover" />
 </div>
 
-<h1> 大家好! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Welcome to my github.</h1>
+<h1> 大家好! Hallo! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Welcome to my github.</h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=imanisima.imanisima)
@@ -11,12 +11,12 @@
 <div size='20px'> Hi! My name is Imani. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Stick Car Tracker
+- 🔭 I’m currently working on a Stick Car Web Scraper
 
 - 🌱 I’m currently learning Django 
 
@@ -40,9 +40,10 @@
 <a href= https://github.com/imanisima?tab=repositories&q=&type=&language=kaggle&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.github.com/imanisima'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.twitter.com/mahnee_ahnee'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/imanisima'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.kaggle.com/imanisima'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg"/></a> 
 
 <br>
 
