@@ -1,11 +1,11 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/get/gea99c2562bef997b289168d102d17723e4a5e34409d3ac4d594a61cf13e094ea9f1021a0160f32d77792ad0b3792cb40_1920.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://pixabay.com/get/g6472e10e47e690df08ef09d9e8b3fc9a42e9ea8865bc7fd940bef39ac8a2c6e43b54ba32f5da6b39059ce7b565e50e33_1920.jpg" alt="cover" />
 </div>
 
 <h1> 大家好! Hallo! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Welcome to my github.</h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imanisima.imanisima)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=imanisima.imanisima) -->
 
 </p>
 <div size='20px'> Hi! My name is Imani. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a Stick Car Web Scraper
+- 🔭 I’m currently working on a purchase order automation system
 
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning to use Amazon Sagemaker
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/imanisima?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
