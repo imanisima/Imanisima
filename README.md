@@ -1,16 +1,9 @@
-<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi </h1>
-<p align='center'>
-
-</p>
-<div size='20px'> Thank You for taking the time to view my profile :smile: 
-</div>
-
----
-
 ## Latest Projects
 
 (1) [Chinese Popup Dictionary Safari Extension](#chinese_dict): Safari browser extension for instant Chinese-English translation for webpages and webtoons. <br />
-(2) [Mototforecast](#motoforecast): iOS weatherapp for motorcyclists. <br />
+
+(2) [Motoforecast](#motoforecast): iOS weatherapp for motorcyclists. <br />
+
 (3) [Manual Transmission Car Finder](#mt_carfinder): Dashboard for finding manual transmission cars in local area. <br />
 
 ----
@@ -20,8 +13,9 @@
 ## [Chinese Popup Dictionary Extension](#chinese_popup_dictionary_extension)
 
 A powerful Safari browser extension for instant Chinese-English translation—right on any webpage, webtoon, or image! <br />
-Tech Stack: Swift, Javascript, HTML, CSS, Azure AI Services (Azure Speech, Azure Vision, Azure Speech) <br />
-Repo Link: Private
+
+**Tech Stack**: Swift, Javascript, HTML, CSS, Azure AI Services (Azure Speech, Azure Vision, Azure Speech) <br />
+**Repo Link**: Private
 
 ## Features
 
@@ -45,8 +39,9 @@ Repo Link: Private
 ## MotoForecast
 
 A weather app for motorcyclists. Depending on the weather, the application makes riding recommendations to the rider. <br />
-Tech Stack: Cursor, Swift <br />
-Repo Link: [Motoforecast](https://github.com/imanisima/weather-motorcycle-ios-app/tree/master)
+
+**Tech Stack**: Cursor, Swift <br />
+**Repo Link**: [Motoforecast](https://github.com/imanisima/weather-motorcycle-ios-app/tree/master)
 
 ## Features
 - Weather Forecast (powered by OpenWeather API)
@@ -63,8 +58,9 @@ Repo Link: [Motoforecast](https://github.com/imanisima/weather-motorcycle-ios-ap
 ## Manual Transmission Car Finder
 
 An application that monitors and pulls used manual transmission car data from a chain of local dealerships. List refreshes daily. <br />
-Tech Stack: Python, Flask, Bootsttrap, PlotlyExpress <br />
-Repo Link: [MT-car-dashboard](https://github.com/imanisima/MT-car-dashboard/tree/master)
+
+**Tech Stack**: Python, Flask, Bootsttrap, PlotlyExpress <br />
+**Repo Link**: [MT-car-dashboard](https://github.com/imanisima/MT-car-dashboard/tree/master)
 
 ### Features
 - Lists manual and automatic cars in local dealerships in a dashboard 
