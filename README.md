@@ -29,7 +29,7 @@ A powerful Safari browser extension for instant Chinese-English translation—ri
 
 ### Preview
 
-<img width="800" height="600" alt="webtoon preview" src="https://github.com/user-attachments/assets/d5d76e42-381e-4e8f-aafe-84917878d70e" />
+<img width="500" height="500" alt="webtoon preview" src="https://github.com/user-attachments/assets/d5d76e42-381e-4e8f-aafe-84917878d70e" />
 
 
 <sm>Source:《偏偏宠爱》Only Love</sm>
